@@ -1,0 +1,32 @@
+{
+  "name": "gulp-manifest",
+  "version": "1.0.0",
+  "description": "asset revisioning by appending content hash to filenames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basis-company/gulp-manifest.js.git"
+  },
+  "keywords": [
+    "gulp",
+    "manifest",
+    "revision",
+    "hash",
+    "json"
+  ],
+  "author": {
+    "name": "Ilya Anisimov",
+    "email": "litstat@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basis-company/gulp-manifest.js/issues"
+  },
+  "homepage": "https://github.com/basis-company/gulp-manifest.js#readme",
+  "dependencies": {
+    "vinyl": "^3.0.0"
+  }
+}
